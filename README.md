@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook focused on climate forecasting using the Jena dataset. The project demonstrates data analysis, preprocessing, visualization, and machine learning modeling for time series forecasting.
 
 Contents
-Jena_Climate_Forecasting.ipynb: The main notebook with detailed steps for climate data analysis and forecasting.
+Jena_Climate_Forecasting.ipynb: The main notebook with detailed steps for climate Temperature data analysis and forecasting.
 
 Requirements
 
