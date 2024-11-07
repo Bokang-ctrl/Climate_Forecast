@@ -27,6 +27,6 @@ Long Short-Term Memory (LSTM): An advanced RNN capable of learning long-term dep
 Convolutional Neural Network (CNN): A deep learning model that can capture spatial patterns, adapted here to capture temporal patterns in the time series data.
 
 
-#Acknowledgements
+# Acknowledgements
 
 The Jena dataset is sourced from https://www.kaggle.com/datasets/mnassrib/jena-climate
